@@ -1,0 +1,5 @@
+Credentials cache: API:4CFD4821-E10C-4285-A0FA-CDDC135A01A9
+        Principal: mlecuyer@42.FR
+
+  Issued                Expires               Principal
+Mar  9 13:02:54 2020  Mar 16 13:02:54 2020  krbtgt/42.FR@42.FR
